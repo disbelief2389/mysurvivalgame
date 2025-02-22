@@ -1,0 +1,23 @@
+{
+  "name": "mysurvivalgame",
+  "version": "1.0.0",
+  "description": "A simple survival game written in javascript to deepen my understanding of the language whilst doing something fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disbelief2389/mysurvivalgame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disbelief2389/mysurvivalgame/issues"
+  },
+  "homepage": "https://github.com/disbelief2389/mysurvivalgame#readme",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
+}
